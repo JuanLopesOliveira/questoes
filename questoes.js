@@ -32,7 +32,7 @@ console.log(`${numberToTest} Não pertence a sequência fibonacci`)
 
 //a) 1, 3, 5, 7, 9 - o próximo elemento é a soma do anterior com 2
 //b) 2, 4, 8, 16, 32, 64 - o próximo elemento é o dobro do anterior
-//c) 0, 1, 4, 9, 16, 25, 36, 49 - nessa sequência, cada número é o quadrado de seu índice
+//c) 0, 1, 4, 9, 16, 25, 36, 49 - nessa sequência, o próximo número é o quadrado da raiz do anterior + 1
 //d) 4, 16, 36, 64, 100 - cada número é o quadrado de um número par
 //e) 1, 1, 2, 3, 5, 8, 13 - sequência fibonacci, o próximo número é a soma dos dois anteriores
 //f) 2, 10, 12, 16, 17, 18, 19, 200 - a única relação entre os números é que o nome dos números começam com 'd'
