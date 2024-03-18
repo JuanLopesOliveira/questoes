@@ -39,9 +39,9 @@ console.log(`${numberToTest} Não pertence a sequência fibonacci`)
 
 //Questão 4
 
-//Eu ligaria o primeiro interruptore e esperaria cerca de 5 minutos, então
-//desligaria e ligaria o segundo, e rapidamente iria para a sala das lâmpadas
-//a lâmpada ligada é referente ao segundo interruptor, a lâmpada desligada e quente,
+//Eu ligaria o primeiro interruptor e e esperaria cerca de 5 minutos, então
+//desligaria e ligaria o segundo interruptor, e rapidamente iria para a sala das lâmpadas
+//A lâmpada ligada é referente ao segundo interruptor, a lâmpada desligada e quente,
 //é referente ao primeiro interruptor, a lâmpada desligada e fria é referente ao
 //terceiro interruptor
 
